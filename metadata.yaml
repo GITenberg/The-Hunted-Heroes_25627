@@ -11,6 +11,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/28358
     wikipedia: http://en.wikipedia.org/wiki/Robert_Silverberg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25627#The-Hunted-Heroes
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2008-05-27'
 gutenberg_type: Text
